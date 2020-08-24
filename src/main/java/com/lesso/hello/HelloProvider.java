@@ -8,7 +8,7 @@ import java.util.Date;
 
 
 @Component
-public class Provider {
+public class HelloProvider {
 
     @Autowired
     private AmqpTemplate amqpTemplate;
